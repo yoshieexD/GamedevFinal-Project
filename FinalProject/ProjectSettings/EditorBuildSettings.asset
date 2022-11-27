@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Option.unity
     guid: f87481b7e069863418e2544af36d2fb3
+  - enabled: 1
+    path: Assets/Scenes/BeastFight.unity
+    guid: 7d2d5c33be0a68f418574001269ca73e
+  - enabled: 1
+    path: Assets/Scenes/RivalFight.unity
+    guid: 97486945b73054947ae83ddeb7ff44ea
+  - enabled: 1
+    path: Assets/Scenes/BeastWinning.unity
+    guid: 7636eaf15caaa6c4d8979d28de2d653e
+  - enabled: 1
+    path: Assets/Scenes/RivalWinning.unity
+    guid: dc04c8d99cdf196439c814a37ddfd49e
   m_configObjects: {}
