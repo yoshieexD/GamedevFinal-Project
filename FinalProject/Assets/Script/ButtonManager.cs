@@ -23,4 +23,7 @@ public void RivalFight(){
 public void Quitapplication(){
     Application.Quit();
 }
+public void Credits(){
+    SceneManager.LoadScene("Credits");
+}
 }

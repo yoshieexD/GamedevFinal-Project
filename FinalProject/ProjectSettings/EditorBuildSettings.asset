@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RivalWinning.unity
     guid: dc04c8d99cdf196439c814a37ddfd49e
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 42e7ddd27b2086741a94c8359db103cb
   m_configObjects: {}
